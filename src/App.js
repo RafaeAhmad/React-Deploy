@@ -11,7 +11,7 @@ function App() {
           Rafae's Website
 		  </p>
         <a
-          className="The Boys"
+          className="App-link"
           href="https://gyazo.com/afe493b65f85e76e074d70ba6e76f683"
           target="_blank"
           rel="noopener noreferrer"
