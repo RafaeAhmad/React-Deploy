@@ -12,11 +12,11 @@ function App() {
 		  </p>
         <a
           className="App-link"
-          href= "https://gyazo.com/b3e78dc47291243d9abfbc749c176fda" "                                                                                                             
+          href= "https://gyazo.com/b3e78dc47291243d9abfbc749c176fda"                                                                                                              
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume
+          Resume;
         </a>
       </header>
     </div>
