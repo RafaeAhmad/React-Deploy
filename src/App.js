@@ -13,7 +13,7 @@ function App() {
         <a
           className="App-link"
 
-          href="https://gyazo.com/b3e78dc47291243d9abfbc749c176fda"
+          href="https://gyazo.com/111f18f60575f4eed1f1ef9f6eae7937"
 
           target="_blank"
           rel="noopener noreferrer"
