@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume;
+          Resume
         </a>
       </header>
     </div>
